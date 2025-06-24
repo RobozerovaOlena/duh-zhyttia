@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Церква "Дух Життя" — Черкаси</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f7f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #005984;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #e0f0f7;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #005984;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    footer {
+      background-color: #005984;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+    h2 {
+      color: #005984;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Церква "Дух Життя"</h1>
+  <p>м. Черкаси</p>
+</header>
+
+<nav>
+  <a href="#about">Про нас</a>
+  <a href="#team">Наша команда</a>
+  <a href="#services">Богослужіння</a>
+  <a href="#ministries">Наші служіння</a>
+  <a href="#donate">Пожертви</a>
+  <a href="#contacts">Контакти</a>
+</nav>
+
+<section id="about">
+  <h2>Про нас</h2>
+  <p>Церква "Дух Життя" — це місце зустрічі з живим Богом. Ми служимо людям, навчаємо істині Божого Слова та зростаємо у вірі.</p>
+</section>
+
+<section id="team">
+  <h2>Наша команда</h2>
+  <p>У нашій церкві служать пастори, лідери груп, волонтери та молитовники, які щиро люблять Бога і людей. Познайомтеся з нашими служителями під час зібрань або зверніться до адміністратора.</p>
+</section>
+
+<section id="services">
+  <h2>Богослужіння</h2>
+  <ul>
+    <li>Неділя: 12:00 — Головне богослужіння</li>
+    <li>Середа: 18:30 — Молитовне зібрання</li>
+    <li>П’ятниця: 18:00 — Молодіжне служіння</li>
+  </ul>
+</section>
+
+<section id="ministries">
+  <h2>Наші служіння</h2>
+  <ul>
+    <li><strong>Дитяче служіння:</strong> недільна школа для дітей різного віку</li>
+    <li><strong>Молитовне служіння:</strong> підтримка у молитві, групи за потребами</li>
+    <li><strong>Соціальне служіння:</strong> допомога нужденним, гуманітарна підтримка</li>
+    <li><strong>Домашні групи:</strong> спільнота віруючих для навчання та підтримки</li>
+    <li><strong>Консультація пастора:</strong> духовна та сімейна підтримка за попереднім записом</li>
+  </ul>
+</section>
+
+<section id="donate">
+  <h2>Пожертви</h2>
+  <p>Якщо бажаєте підтримати наше служіння фінансово, звертайтесь до адміністратора церкви або скористайтесь реквізитами, які будуть вказані нижче:</p>
+  <p><strong>Картка/рахунок:</strong> [вставити дані]</p>
+  <p>Дякуємо за вашу щедрість — кожна пожертва йде на справу Божу!</p>
+</section>
+
+<section id="contacts">
+  <h2>Контакти</h2>
+  <p><strong>Адреса:</strong> м. Черкаси, вул. [вкажіть адресу]</p>
+  <p><strong>Телефон:</strong> +38 (0) _  </p>
+  <p><strong>Email:</strong> example@church.com</p>
+  <p><strong>Viber-група:</strong> <a href="https://invite.viber.com/?g2=AQBUalPTPmHfXVThEq3Ed1ymtGauXFlxyX%2BBbVO2rfCneG%2FkN9bi4%2FbJPrV7Asrt" target="_blank">Приєднатися</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Церква "Дух Життя", м. Черкаси. Усі права захищені.</p>
+</footer>
+
+</body>
+</html>
